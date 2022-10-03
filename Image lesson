@@ -22,36 +22,58 @@
 
         <!-- meta http-equiv="content-type" content="text/html; charset=UTF-8" -->
         <!-- Already specified in the charset above-->
-
+        <!---- cyber security note about Javascript in Browsers-->
         <noscript>Running JavaScript is not necessary in the HTML Page ... FYI: your Feature to execute scripts is turned off</noscript>
-
+                                                                        
     </head>
     
     <body>
-        <p>
-            Two URLs to use in my lesson
-            1. https://deadline.com/wp-content/uploads/2022/09/GettyImages-1170383972-e1662140354328.jpg?crop=1072px%2C105px%2C4588px%2C2573px&resize=681%2C383
-            2. https://deadline.com/wp-content/uploads/2022/09/GettyImages-1170383972-e1662140354328.jpg
-        </p>
-        <header>Header</header>
-        <nav>Navigation</nav>
-        <aside>Aside</aside>
-        <main>Main</main>
-        <section>Section</section>
-        <article>Article</article>
-        <footer>Footer</footer>
-    </body>
+        <!-- <header><h1>Image Lesson</H1></Header>
+        <nav></nav>     
+        <aside></aside>
+        <main></main>
+        <section>
+                 <h3>steps in bulding an image</h3>
+                    <ul>
+                      <li> pick an Image(careful of the file extension in the URL)  
+                      <li> Record URL, cite it,comment for data access,and record original dimensions 
+                      <li>use blockquote and comment as appropriate
+                      <li> use img_tag with attributes src,alt,title,and stylr with width_height
+                      </ul>
+                    </section>
+                </section>
+                         <h3> Example Image</h3>
+                      <br><1__codes one space,like pressing enter -->
+                      <!---- <img> is self coding-->
+                      <blockquote cite="https://previews.123rf.com/images/trimbaldi/trimbaldi1309/trimbaldi130900007/23089796-wow-in-pop-art.jpg">
+                        <!-- Date Accessed 20220928 -->
+                    </blockquote>
+                    <img src="https://previews.123rf.com/images/trimbaldi/trimbaldi1309/trimbaldi130900007/23089796-wow-in-pop-art.jpg" alt title="WOW! Mr. Mercer" style="width:25%;height:auto">
+                    <br><br><br>
+                    <img src="..\Images\23089796-wow-in-pop-art.jpg" alt="..\Images\23089796-wow-in-pop-art.jpg" title="WOW! Mr. Mercer" style="width:100%;height:auto">
+                </section>
+                <article></article>
+                <footer></footer>
+            </body>
+        
+            <footer>
+                <blockquote cite="https://www.brainyquote.com/quotes/edsger_dijkstra_201168" target="_blank">
+                  <!-- Date Accessed 20220919 -->  
+                </blackquote>
+                <p>
+                 <strong>
+                 "computer science is no more about computers than astrononmy is about telescopes." 
+                 </strong>
+                <em>
+                    <a href="https://www.brainyquote.com/quotes/edsger_dijkstra_201168" target="_blank">   
+                    -edsger dijkstra
+                    </a>
+                </em>
+            </P>
+            <p>& copy salahadin,powered by salahadin2 in github 
+            </footer>
+           </html>        
+                        
+                        
 
-    <footer>
     
-        <p>
-            <strong></strong>
-           https \xxxtentacion-tablet-wallpapers
-
-            <em>- <a href="https://www.brainyquote.com/quotes/mitch_kapor_163583" target="_blank">
-                Mitch Kapor</a>
-            </em>
-        </p>
-        <p>&copy Mark Mercer, powered by MercersKitchen in GitHub</p>
-    </footer>
-</html>
