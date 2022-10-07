@@ -4,11 +4,19 @@ DOCTYPE html>
         <!-- Used by the Keyboard -->
         <meta charset="utf-8">
 
+<<<<<<<< HEAD:index.html.txt
         <title>Footer Blockquote</title>
 
         <meta name="author" content="Mark Mercer">
         <meta name="description" content="Learning HTML by building simple website">
         <meta name="keywords" content="boilerplate starter code HTML learning footer blockquote">
+========
+        <title>DIVs</title>
+
+        <meta name="author" content="Mark Mercer">
+        <meta name="description" content="Learning HTML by building simple website">
+        <meta name="keywords" content="boilerplate starter code HTML learning div division">
+>>>>>>>> ba5c11539932d503bc7a94de4f2fbff74e0bc6a8:child pages/childPages/laying out DIV.html
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- Content give value for name or http-equiv attribute, text entry in string or array string -->
 
