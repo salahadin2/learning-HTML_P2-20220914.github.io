@@ -1,7 +1,71 @@
-<<<<<<< HEAD
-# Sandbox-Learning-HTML-P2-20220914.github.io
-p2
-=======
-# learning-HTML_P2-20220914.github.io
-p2 lesson
->>>>>>> 94eefbeb44a5bc26df68e036ec86ea22a7045b87
+!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <!-- Used by the Keyboard -->
+        <meta charset="utf-8">
+
+        <title>Splash Page, Learning HTML</title>
+
+        <meta name="author" content="Mark Mercer">
+        <meta name="description" content="First Webpage Learning HTML by building simple website">
+        <meta name="keywords" content="boilerplate starter code HTML learning">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Content give value for name or http-equiv attribute, text entry in string or array string -->
+
+        <!-- meta http-equiv="default-style" content=""--> <!-- content matches css link exactly-->
+
+        <!-- Other meta attributes to be aware of -->
+
+        <!-- meta http-equiv="refresh" content="30"-->
+        <!-- Content forces a Internet Request to refresh webpage every "time value in seconds" -->
+        <!-- Use this when refreshes are needed -->
+
+        <!-- meta http-equiv="content-type" content="text/html; charset=UTF-8" -->
+        <!-- Already specified in the charset above-->
+
+        <noscript>Running JavaScript is not necessary in the HTML Page ... FYI: your Feature to execute scripts is turned off</noscript>
+
+    </head>
+    
+    <body>
+        <header><h1 style="font-size:5.5vw">Learning HTML and css</h1></header>
+        <nav>
+            <header style="font-size:3vw">Navigation</header>
+            <section>
+                <header style="font-size:2vw">Various Pages</header>
+                <ul style="list-style-type:square; font-size:0.75vw">
+                    <li> Meta Data Example: <a href="childPages/Meta Data Example.html" target="_blank">Open this in ATOM to see meta data changes :)</a>
+                    <li> Footer Blockquote Example: <a href="childPages/Footer Blockquote Example.html" target="_blank">click here</a>
+                    <li> Template Exemplar: <a href="childPages/childTemplate.html" target="_blank">click here</a>
+                    <li> Headings and Paragraph Tags: <a href="childPages/Headings and Paragraph Tags.html" target="_blank">click here</a>
+                    <li> Subscript and Superscript Tags: <a href="childPages/Subscript and Superscript Tags.html" target="_blank">click here</a>
+                    <li> Image Lesson: <a href="childPages/Image Lesson.html" target="_blank">click here</a>
+                    <li> Laying out DIVs (using HTML Boilerplate): <a href="childPages/Laying out DIVs.html" target="_blank">click here</a>
+                    <li> What this index page might look like with Flexbox: <a href="childPages/Flexbox.html" target="_blank">click here</a>
+                </ul>
+            </section>
+        </nav>
+        <hr>
+        <aside> aside is for extra information</aside>
+    </hr>
+        <main></main>
+        <section></section>
+        <article></article>
+        <footer></footer>
+    </body>
+
+    <footer>
+        <blockquote cite="https://www.brainyquote.com/quotes/Edgster_Dijikstra_163583">
+            <!-- Date Accessed 20220919 -->
+        </blockquote>
+        <p>
+            <strong>
+                "Getting information off the Internet is like taking a drink from a firehose."
+            </strong>
+            <em>- <a href="https://www.brainyquote.com/quotes/Edgster-Dijikstra_163583 " target="_blank"></a>
+                Mitch Kapor</a>
+            </em>
+        </p>
+        <p>&copy salahadin, powered by salahadin2 in GitHub</p>
+    </footer>
+</html>
