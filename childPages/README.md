@@ -1,2 +1,6 @@
-# learning-HTML_P2-20220914-github.io
-p2 lesson
+!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <!-- Used by the Keyboard -->
+        <meta charset="utf-8">
+
